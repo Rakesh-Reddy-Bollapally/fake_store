@@ -641,6 +641,7 @@ products.forEach(function(v,i,ar) {
     div.style.border="2px solid black";
     div.style.margin="0px auto";
     div.style.marginTop="20px"
+    div.style.marginBottom="10px"
     div.style.borderRadius="5px"
     div.style.padding="10px"
     div.style.fontFamily="calibri";
